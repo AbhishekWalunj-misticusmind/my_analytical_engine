@@ -1,6 +1,6 @@
 from django.urls import path
-from .views import DataView
+from .views import ContractDetailsView
 
 urlpatterns = [
-    path('data/', DataView.as_view(), name='data-list'),
+    path('contract-details/', ContractDetailsView.as_view(), name='contract-details'),
 ]
