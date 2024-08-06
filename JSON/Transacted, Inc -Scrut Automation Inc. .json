@@ -1,0 +1,93 @@
+{
+    "contract_name": "Transacted, Inc -Scrut Automation Inc. .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "691 S Milpitas Blvd, Suite 217 Milpitas, CA 95035 "
+        },
+        {
+            "Vendor name": "Scrut Automation Inc. "
+        },
+        {
+            "Customer Address": "2101 N 34th St, Seattle, WA 98103 "
+        },
+        {
+            "Customer Name": "Transacted, Inc "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Agreement Number": "20240226TI01"
+                },
+                {
+                    "Effective Date": "27-02-2024"
+                },
+                {
+                    "Name of the Customer.": "Transacted, Inc"
+                },
+                {
+                    "Address of the Customer.": "2101 N 34th St, Seattle, WA 98103"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services.": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                },
+                {
+                    "Establish the list of applicable controls with an Implementation plan": "Annual"
+                },
+                {
+                    "Carrying out the vulnerability assessment and external penetration testing": "Annually"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations": "Recurring Software Usage"
+                },
+                {
+                    "Consultation and preparing the policies": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees": "Recurring, auto-administered on the\nplatform when a new employee joins"
+                },
+                {
+                    "Complete internal audits prior to the certification": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Annual Subscription Fees.\nPayable Quarterly, i.e. $2250 per month": "$9,000.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "nalindley@transacted.io"
+        },
+        {
+            "ACV": "$9,000.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Scrut Automation Inc., having its registered\noffice at 691 S Milpitas Blvd, Suite 217 Milpitas, CA 95035 ( Company ), and the Customer listed above ( Customer ).\nUnless otherwise mutually agreed between the Parties in writing, the terms set forth in this Order Form together with the\nSchedules attached herein, the General Terms and Conditions, and the Privacy Policy available shall govern the relationship\nbetween the Parties. Notwithstanding anything in the General Terms and Conditions, the Subscription Term of this Order\nForm shall be automatically renewed every year for an additional period of 2 (two) years from the completion of the\nSubscription Term, unless otherwise terminated mutually by the Parties in writing.\n",
+                "The exact timing of each of the above activities shall be mutually decided, basis the availability of Client s team and\nRiversys customer success team\nStandards covered - SOC 2 TYPE 1, SOC 2 TYPE 2, ISO 27001,GDPR\n",
+                " All figures are in USD\n",
+                "  This would be an annual subscription plan.\n\ne The above costs includes the cost of External auditor for SOC 2 TYPE 1, SOC 2 TYPE 2, ISO\n27001,GDPR Audits and Attestations/ Certifications.\n\n  One cycle of VAPT for 1 Web   1 Mobile App.\n\n  Price freeze for 3 years.\n"
+            ]
+        }
+    ]
+}

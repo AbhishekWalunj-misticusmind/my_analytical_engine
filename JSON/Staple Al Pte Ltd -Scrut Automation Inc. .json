@@ -1,0 +1,93 @@
+{
+    "contract_name": "Staple Al Pte Ltd -Scrut Automation Inc. .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "691 S Milpitas Blvd, Suite 217 Milpitas, CA 95035 "
+        },
+        {
+            "Vendor name": "Scrut Automation Inc. "
+        },
+        {
+            "Customer Address": "38 Maxwell Road #02-01 Air View Building Singapore 069116 "
+        },
+        {
+            "Customer Name": "Staple Al Pte Ltd "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Aqreement Number": "20240312ST01"
+                },
+                {
+                    "Effective Date": "12-03-2024"
+                },
+                {
+                    "Name of the Customer.": "Staple AI Pte Ltd"
+                },
+                {
+                    "Address of the Customer.": "38 Maxwell Road #02-01 Air View Building Singapore 069116"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A."
+                },
+                {
+                    "Fees for Covered Services.": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year"
+                },
+                {
+                    "Establish the list of applicable controls with an Implementation plan": "Annual"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified.": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations.": "Recurring Software Usage."
+                },
+                {
+                    "Consultation and preparing the policies.": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the.\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees.": "Recurring, auto-administered on the\nplatform when a new employee joins"
+                },
+                {
+                    "Complete internal audits prior to the certification.": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification.": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up)\nPayable upfront": "$5,500.00"
+                },
+                {
+                    "Milestone 2\nTo be paid upon completion of the audit or 90 days from the day the agreement\nwas signed, whichever comes first.": "$5,500.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "ben@staple.io"
+        },
+        {
+            "ACV": "$11,000.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Scrut Automation Inc., having its registered\noffice at 691 S Milpitas Blvd, Suite 217 Milpitas, CA 95035 ( Company ), and the Customer listed above ( Customer ).\nUnless otherwise mutually agreed between the Parties in writing, the terms set forth in this Order Form together with the\nSchedules attached herein, the General Terms and Conditions, and the Privacy Policy available shall govern the relationship\nbetween the Parties.\n",
+                "The exact timing of each of the above activities shall be mutually decided, basis the availability of Client s team and\nRiversys customer success team\nStandards covered - ISO 27001 2022, SOC 2 Type Ii, HIPAA, and GDPR\n",
+                " All figures are in USD\n",
+                "  This would be an annual subscription plan and the above cost is exclusive of taxes.\n\n  There will be an annual increment of 7.5  to the quoted cost.\n\n  The above costs includes the cost of an external auditor for ISO 27001 2022, SOC 2 Type II, HIPAA,\nand GDPR.\n"
+            ]
+        }
+    ]
+}

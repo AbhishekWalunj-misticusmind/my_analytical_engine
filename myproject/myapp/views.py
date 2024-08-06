@@ -1,32 +1,40 @@
+# myapp/views.py
+from pymongo import MongoClient
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework import status
-from pymongo import MongoClient
+from rest_framework.parsers import MultiPartParser, JSONParser
+
 import json
 
+from pymongo import MongoClient
+
 class ContractDetailsView(APIView):
+    parser_classes = [MultiPartParser, JSONParser]  # Added JSONParser for JSON requests
+
+    def get_collection(self):
+        mongo_uri = 'mongodb://localhost:27017/'
+        db_name = 'analytical_engine'
+        collection_name = 'data_collection'
+
+        client = MongoClient(mongo_uri)
+        db = client[db_name]
+        return db[collection_name]
+
     def get(self, request):
         try:
-            # Connect to MongoDB
-            client = MongoClient('mongodb://localhost:27017/')
-            db = client['analytical_engine']  # Replace with your database name
-            collection = db['data_collection']  # Replace with your collection name
-
-            # Fetch all documents from the collection
+            collection = self.get_collection()
             documents = collection.find({})
 
-            # Prepare the response list
             response_data = []
 
             for doc in documents:
                 contract_details = doc.get('contract_details', [])
 
-                # Extract relevant information
-                agreement_no = doc.get('contract_name', 'N/A')  # Assuming contract_name is agreement_no
+                agreement_no = doc.get('contract_name', 'N/A')
                 effective_date = None
                 contract_term = None
 
-                # Iterate over contract_details to find desired fields
                 for detail in contract_details:
                     contract_terms = detail.get("Contract Terms", [])
 
@@ -36,7 +44,6 @@ class ContractDetailsView(APIView):
                         if "Contract Term" in term:
                             contract_term = term["Contract Term"]
 
-                # Append extracted data to response list
                 response_data.append({
                     "agreement_no": agreement_no,
                     "effective_date": effective_date,

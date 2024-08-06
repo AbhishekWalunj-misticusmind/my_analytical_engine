@@ -1,0 +1,93 @@
+{
+    "contract_name": "Gravity Cloud Services, Inc -Riversys Technologies Private Limited .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North West, 110052 "
+        },
+        {
+            "Vendor name": "Riversys Technologies Private Limited "
+        },
+        {
+            "Customer Address": "651 N Broad St, Suite 201, Middletown, Delaware - 19709 "
+        },
+        {
+            "Customer Name": "Gravity Cloud Services, Inc "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Agreement Number.": "20240215GC01"
+                },
+                {
+                    "Effective Date": "21-02-2024"
+                },
+                {
+                    "Name of the Customer": "Gravity Cloud Services, Inc"
+                },
+                {
+                    "Address of the Customer": "651 N Broad St, Suite 201, Middletown, Delaware - 19709"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services": "(detailed in Schedule B)."
+                },
+                {
+                    "Contract Term": "1 year."
+                },
+                {
+                    "Establish the list of applicable controls with an Implementation plan": "Annual"
+                },
+                {
+                    "Carrying out the vulnerability assessment and external penetration testing": "Annually"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations": "Recurring Software Usage."
+                },
+                {
+                    "Consultation and preparing the policies": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees": "Recurring, auto-administered on the\nplatform when a new employee joins"
+                },
+                {
+                    "Complete internal audits prior to the certification": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Annual Subscription (including audit cost).\nPayable quarterly upfront, i.e., INR 80,o00 per quarter": "R320,000.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "vatsal@gravitycloud.tech"
+        },
+        {
+            "ACV": "~320,000.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Riversys Technologies Private Limited, a\nprivate limited liability company having its registered office at 302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial\nArea, Delhi North-West, 110052 ( Company ), and the Customer listed above ( Customer ). Unless otherwise mutually\nagreed between the Parties in writing, the terms set forth in this Order Form together with the Schedules attached herein,\nthe General Terms and Conditions, and the Privacy Policy available shall govern the relationship between the Parties.\nNotwithstanding anything in the General Terms and Conditions, the Subscription Term of this Order Form shall be\nautomatically renewed every year for an additional period of 2 (two) years from the completion of the Subscription Term,\nunless otherwise terminated mutually by the Parties in writing.\n",
+                "The exact timing of each of the above activities shall be mutually decided, basis the availability of Client s team and\nRiversys customer success team\nStandards covered - SOC 2 Type II\n",
+                " All figures are in INR\n",
+                "  This would be an annual subscription plan and the above cost is exclusive of taxes.\n\n  The above costs includes the cost of an external auditor for SOC 2 Type Il.\n\n  The above costs includes the cost of one cycle of VAPT for one application.\n\n  The cost for additional VAPT would be discussed after evaluating the scope of the application.\n"
+            ]
+        }
+    ]
+}

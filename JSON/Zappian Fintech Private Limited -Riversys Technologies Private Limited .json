@@ -1,0 +1,96 @@
+{
+    "contract_name": "Zappian Fintech Private Limited -Riversys Technologies Private Limited .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North West, 110052 "
+        },
+        {
+            "Vendor name": "Riversys Technologies Private Limited "
+        },
+        {
+            "Customer Address": "F1- F5 Nirupam Shopping Mall Hoshangabad Road Bhopal 462026 "
+        },
+        {
+            "Customer Name": "Zappian Fintech Private Limited "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Agreement Number": "20240415CM01"
+                },
+                {
+                    "Effective Date": "15-04-2024"
+                },
+                {
+                    "Name of the Customer": "Zappian Fintech Private Limited"
+                },
+                {
+                    "Address of the Customer": "F1- F5 Nirupam Shopping Mall Hoshangabad Road Bhopal 462026"
+                },
+                {
+                    "GST details (if applicable)": "23AACCZ0667K1Z5"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year."
+                },
+                {
+                    "Establish the list of applicable controls with an Implementation plan": "Annual"
+                },
+                {
+                    "Carrying out the vulnerability assessment and external penetration testing": "Annually"
+                },
+                {
+                    "Support for remediation of vulnerabilities identified.": "Annual"
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations.": "Recurring Software Usage"
+                },
+                {
+                    "Consultation and preparing the policies.": "Annual"
+                },
+                {
+                    "Consultation, preparing and helping customer to collect the.\nevidence artifacts": "Annual"
+                },
+                {
+                    "Infosec training for all the employees": "Recurring, auto-administered on the\nplatform when a new employee joins"
+                },
+                {
+                    "Complete internal audits prior to the certification.": "Annual"
+                },
+                {
+                    "Quarterly internal assessment of the Infosec posturing post-certification": "Quarterly"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Annual Subscription + Audit\nPayable quarterly upfront, i.e., INR 87500 per quarter": "R350,000.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "lavit@credmudra.com"
+        },
+        {
+            "ACV": "~350,000.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Riversys Technologies Private Limited, a\nprivate limited liability company having its registered office at 302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial\nArea, Delhi North-West, 110052 ( Company ), and the Customer listed above ( Customer ). Unless otherwise mutually\nagreed between the Parties in writing, the terms set forth in this Order Form together with the Schedules attached herein,\nthe General Terms and Conditions, and the Privacy Policy available shall govern the relationship between the Parties.\n",
+                "The exact timing of each of the above activities shall be mutually decided, basis the availability of Client s team and\nRiversys customer success team\nStandards covered - ISO 27001 2022 and CICRA (by CISA)\n",
+                " All figures are in INR and the mentioned amount is exclusive of taxes (if applicable)\n",
+                "e This would be an annual subscription plan and the above cost excludes taxes.\n\n  The above costs includes the cost of Scrut s preferred auditor for ISO 27001 2022 and CICRA (by\nCISA).\n\n  The above costs includes the cost of one cycle of CERT-In empanelled VAPT for one application\n(Note  One application is considered as either one web app or one android or one iOS application).\n\n  The cost for additional VAPT would be discussed after evaluating the scope of the application.\n"
+            ]
+        }
+    ]
+}

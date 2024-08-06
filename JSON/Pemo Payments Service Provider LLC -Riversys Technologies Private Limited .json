@@ -1,0 +1,45 @@
+{
+    "contract_name": "Pemo Payments Service Provider LLC -Riversys Technologies Private Limited .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North West, 110052 "
+        },
+        {
+            "Vendor name": "Riversys Technologies Private Limited "
+        },
+        {
+            "Customer Address": "Office 09-124 WeWork-Office Space & Coworking, One Central, Offices 4, 9th Floor - Dubai "
+        },
+        {
+            "Customer Name": "Pemo Payments Service Provider LLC "
+        },
+        {},
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1 (On sign up)\nPaid annually upfront": "$500.00"
+                },
+                {
+                    "Milestone 2\nPaid upon the completion of the UAE IA": "$2,500.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "saed@pemo.io"
+        },
+        {
+            "ACV": "$3,000.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Riversys Technologies Private Limited, a\nprivate limited liability company having its registered office at 302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial\nArea, Delhi North-West, 110052 ( Company ), and the Customer listed above ( Customer ). Unless otherwise mutually\nagreed between the Parties in writing, the terms set forth in this Order Form together with the Schedules attached herein,\nthe General Terms and Conditions, and the Privacy Policy available shall govern the relationship between the Parties.\n\nThe Parties have entered into a Software Licenses and Services Agreement dated 15-10-2023 Principal Agreement ) with\nAgreement number 20231012PE01. The Parties have agreed to enter into this Addendum Agreement to supplement the\nPrincipal Agreement in the manner and on the terms and conditions set out below.\n",
+                "Standards covered - UAE IA\n",
+                "  This would be an annual subscription plan.\ne The above costs includes the cost of an external auditor for UAE IA.\n",
+                " All figures are in S  and the mentioned amount is exclusive of taxes (if applicable)\n"
+            ]
+        }
+    ]
+}

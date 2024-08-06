@@ -1,0 +1,72 @@
+{
+    "contract_name": "ThinkSys Software Private Limited for RTO -Riversys Technologies Private Limited .xlsx",
+    "contract_details": [
+        {
+            "Vendor Address": "302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial Area, Delhi North West, 110052 "
+        },
+        {
+            "Vendor name": "Riversys Technologies Private Limited "
+        },
+        {
+            "Customer Address": "Seventh Floor, Discovery Tower, A-17, Sector- 62, Noida, UP "
+        },
+        {
+            "Customer Name": "ThinkSys Software Private Limited for RTO "
+        },
+        {
+            "Contract Terms": [
+                {
+                    "Agreement Number": "20240221TH02"
+                },
+                {
+                    "Effective Date": "26-02-2024"
+                },
+                {
+                    "Name of the Customer": "ThinkSys Software Private Limited for RTO"
+                },
+                {
+                    "Address of the Customer": "Seventh Floor, Discovery Tower, A-17, Sector- 62, Noida, UP"
+                },
+                {
+                    "Covered Services": "Scrut Platform (\"Software\")\nStatement of Work set out in Schedule A"
+                },
+                {
+                    "Fees for Covered Services": "(detailed in Schedule B)"
+                },
+                {
+                    "Contract Term": "1 year."
+                },
+                {
+                    "Deploying the GRC tool and making necessary configurations": "Recurring Software Usage"
+                }
+            ]
+        },
+        {
+            "Billing Terms": [
+                {
+                    "Milestone 1\nPaid upfront": "$1,750.00"
+                },
+                {
+                    "Milestone 2\nTo be paid upon completion of 60 days from the day the agreement was signed.": "$1,750.00"
+                }
+            ]
+        },
+        {
+            "Vendor_Email_ID": "aayush@scrut.io"
+        },
+        {
+            "Customer_Email_ID": "jha.rajiv@thinksys.com"
+        },
+        {
+            "ACV": "$3,500.00"
+        },
+        {
+            "Special Terms": [
+                "This Order Form is entered into on the Effective Date mentioned above between Riversys Technologies Private Limited, a\nprivate limited liability company having its registered office at 302, Plot No 15, 3rd Floor, Kumar Tower, Wazirpur Industrial\nArea, Delhi North-West, 110052 ( Company ), and the Customer listed above ( Customer ). Unless otherwise mutually\nagreed between the Parties in writing, the terms set forth in this Order Form together with the Schedules attached herein,\nthe General Terms and Conditions, and the Privacy Policy available shall govern the relationship between the Parties.\nNotwithstanding anything in the General Terms and Conditions, the Subscription Term of this Order Form shall be\nautomatically renewed every year for an additional period of 2 (two) years from the completion of the Subscription Term,\nunless otherwise terminated mutually by the Parties in writing.\n",
+                "The exact timing of each of the above activities shall be mutually decided, basis the availability of Client s team and\nRiversys customer success team\nStandards covered - SOC 2\n",
+                "  This would be an annual subscription plan.\n",
+                " All figures are in USD\n"
+            ]
+        }
+    ]
+}
